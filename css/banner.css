@@ -1,0 +1,15 @@
+/* INICIO BANNER */
+.banner{   
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.container-Banner{
+    background-color: aquamarine;
+    background-image: url(/img/banner.jpg);
+    background-size: cover;
+    height: 655px;
+    width:70%;
+    justify-content: center;
+}
+/* FIM BANNER */
