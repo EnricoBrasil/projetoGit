@@ -1,0 +1,11 @@
+/* INICIO FOOTER */
+footer{
+    margin-top: 150px;
+    background-color: black;
+    padding: 30px;
+}
+footer p{
+    color: white;
+    text-align: center;
+}
+/* FIM FOOTER */
